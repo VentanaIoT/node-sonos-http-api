@@ -1,0 +1,3 @@
+{
+  "webhook": "http://localhost:8081/sonos/pushnotification"
+}
